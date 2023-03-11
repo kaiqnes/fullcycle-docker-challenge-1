@@ -1,4 +1,4 @@
-<h1>Full Cycle Challenge</h1>
+<h1>Full Cycle Challenge - Optimized Golang Hello World</h1>
 This challenge aims to create a Docker Image of a Golang application that prints the message "Full Cycle Rocks!!".
 
 <h2>Challenge Requirements</h2>
